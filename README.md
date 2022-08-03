@@ -7,15 +7,7 @@
 Hello, I'm Uri and I'm a Backend Developer at [Axonius](https://axonius.com/).
 I love Linux and FOSS, feel free to contact me if you have any questions.
 
-📊 **this week i spent my time on:**
-
-<!--START_SECTION:waka-->
-
-```text
-
-```
-
-<!--END_SECTION:waka-->
+<br>
 
 📈 My github stats
 
