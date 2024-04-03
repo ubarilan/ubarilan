@@ -1,9 +1,5 @@
 ### Hey there
 
-![](https://komarev.com/ghpvc/?username=ubarilan&label=Profile%20views&color=0e75b6&style=flat)
-
-<br />
-
 Hello, I'm Uri and I'm a Backend Engineer.
 I love Linux and FOSS, feel free to contact me if you have any questions.
 
